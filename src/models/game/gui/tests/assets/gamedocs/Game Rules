@@ -1,0 +1,189 @@
+# docs/game_rules.md
+
+# Draw of Faith - Complete Game Rules
+
+## Overview
+Draw of Faith is a strategic card battle game where players use standard playing cards to create powerful fusion combinations and battle for victory points.
+
+## Setup
+- Each player starts with 5 cards from a shuffled 52-card deck
+- Remaining cards form the draw pile
+- Game continues until all cards are played or draw pile is empty
+
+## Turn Structure
+
+### 1. Summon Phase
+Players must play either:
+- **Single Card**: Play one card from hand to field
+- **Fusion Combination**: Combine multiple cards to create a Fusion Card
+
+### 2. Battle Phase (Automatic)
+- Front cards from each player's field battle
+- Higher value wins
+- Winner gains 1 point
+- Losing card goes to graveyard
+
+### 3. Draw Phase
+- Each player draws 1 card (if available)
+- Turn passes to next player
+
+## Fusion Combinations
+
+### Royal Fusion
+- **Requirements**: King, Queen, and Jack (any suits)
+- **Result**: "Royal Knight" Fusion Card
+- **Power**: Highest base card value + 2 bonus
+
+### Five of a Kind  
+- **Requirements**: 5+ cards of the same suit
+- **Result**: "Elemental Avatar" Fusion Card
+- **Power**: Highest base card value + 2 bonus
+
+### Straight Flush
+- **Requirements**: 5+ consecutive cards of the same suit
+- **Result**: "Chrono Blade" Fusion Card  
+- **Power**: Highest base card value + 2 bonus
+
+## Card Values
+- Ace = 14
+- King = 13
+- Queen = 12
+- Jack = 11
+- Number cards = Face value (10, 9, 8, 7, 6, 5, 4, 3, 2)
+
+## Victory Conditions
+Player with the most points when the game ends wins!
+
+## Strategy Tips
+- Save fusion materials for powerful combinations
+- Time your fusions for maximum impact
+- Consider opponent's potential fusions
+- Balance offense with card economy
+
+---
+
+# CONTRIBUTING.md
+
+# Contributing to Draw of Faith
+
+Thank you for your interest in contributing to Draw of Faith! This document provides guidelines for contributors.
+
+## Getting Started
+
+1. **Fork the repository** on GitHub
+2. **Clone your fork** locally:
+   ```bash
+   git clone https://github.com/yourusername/draw-of-faith.git
+   cd draw-of-faith
+   ```
+3. **Create a virtual environment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+4. **Install development dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Development Workflow
+
+1. **Create a feature branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+2. **Make your changes**
+3. **Run tests**:
+   ```bash
+   python -m pytest tests/
+   ```
+4. **Format code**:
+   ```bash
+   black src/
+   flake8 src/
+   ```
+5. **Commit your changes**:
+   ```bash
+   git commit -m "Add: brief description of changes"
+   ```
+6. **Push to your fork**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+7. **Create a Pull Request**
+
+## Code Style
+
+- Follow PEP 8 style guidelines
+- Use meaningful variable and function names
+- Add docstrings to all public methods
+- Keep functions focused and concise
+- Add type hints where helpful
+
+## Testing
+
+- Write tests for new functionality
+- Ensure all tests pass before submitting
+- Aim for good test coverage
+- Test edge cases and error conditions
+
+## Issue Guidelines
+
+When reporting bugs:
+- Use a clear, descriptive title
+- Include steps to reproduce
+- Specify your Python version and OS
+- Include relevant error messages
+
+For feature requests:
+- Describe the desired functionality
+- Explain the use case and benefits
+- Consider implementation complexity
+
+## Pull Request Guidelines
+
+- Reference related issues in the description
+- Include tests for new features
+- Update documentation as needed
+- Keep changes focused and atomic
+- Write clear commit messages
+
+## Areas for Contribution
+
+- **New Fusion Types**: Add creative card combinations
+- **AI Improvements**: Enhance computer opponent strategy
+- **UI/UX**: Improve game interface and user experience
+- **Performance**: Optimize game rendering and logic
+- **Documentation**: Improve guides and tutorials
+- **Testing**: Expand test coverage
+- **Accessibility**: Make the game more accessible
+
+## Questions?
+
+Feel free to open an issue for questions about contributing!
+
+---
+
+# LICENSE
+
+MIT License
+
+Copyright (c) 2024 Draw of Faith Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
