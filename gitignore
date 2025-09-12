@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDEs/editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Node, if you ever add tooling
+node_modules/
+dist/
+
+# Misc
+.sass-cache/
+*.log
