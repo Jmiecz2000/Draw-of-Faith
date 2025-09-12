@@ -1,0 +1,96 @@
+Draw of Faith
+Official Game Rules
+Overview
+Draw of Faith is a strategic card game for 2+ players using a standard 52-card deck. Players summon cards in attack or defense positions, battle opponents' cards, and use powerful fusion mechanics to gain victory points.
+
+Game Setup
+Equipment:
+Standard 52-card deck (no jokers)
+Paper/method to track points
+Starting Conditions:
+Each player draws 5 cards as their starting hand
+First player determined by any agreed method (except high card draw)
+No hand size limit
+
+Turn Structure
+Each player's turn consists of four phases:
+1. Draw Phase
+Draw one card from the deck
+2. Main Phase
+Normal Summon: Place one card face-up on the field in either:
+Attack Position (straight up)
+Defense Position (sideways)
+Special Summon: Instead of normal summoning, you may use fusion/combo mechanics to summon additional cards
+3. Battle Phase
+Cards in attack position may battle opponent cards in attack position
+Face-Down Defense: If attacking a face-down defense position card, flip it face-up first, then compare values
+Battle Resolution: Higher value card wins, lower value card is destroyed
+Scoring: Destroying an opponent's card in attack position = 1 point
+No Valid Targets: If no opponent has cards in attack position, your attacking cards cannot battle
+4. End Phase
+Turn ends, play passes to next player
+
+Card Values & Mechanics
+Card Hierarchy
+Ace > King > Queen > Jack > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2
+Position Rules
+Position Change: A card's position may be changed once per turn, but not on the turn it was summoned
+Attack Position: Can battle opponents, awards points when destroying opponent cards
+Defense Position: Cannot initiate battles, cannot award points
+Graveyard
+Each player has a graveyard where destroyed cards are placed
+Cards in graveyard may be targeted by certain effects
+
+Special Mechanics
+1. Royal Fusion
+Materials: King + Queen + Jack (any suits)
+ Effect: Negate opponent effects and destroy target cards
+ Timing: Can be activated from hand or field during your Main Phase
+2. Ace Fusion
+Materials: Two or more Aces (any suits)
+ Effect: Can revive cards from graveyard
+ Timing: Can be activated from hand or field during your Main Phase
+3. Numbers Combo
+Materials: Either same-number cards OR two numbers that add up to 4-10
+ Effect: Can destroy opponent cards
+ Examples: Three 7s, or a 3+7 to make 10
+ Timing: Can be activated from hand or field during your Main Phase
+4. Ace + Face Cards
+Materials: Any Ace + any Face Card (King/Queen/Jack)
+ Effect: Can negate opponent effects and revive cards from graveyard
+ Timing: Can be activated from hand or field during your Main Phase
+5. Numbers + Ace
+Materials: Any number card + any Ace
+ Effect: Can revive cards and destroy opponent cards
+ Timing: Can be activated from hand or field during your Main Phase
+6. Five of a Kind
+Materials: Five cards of the same suit
+ Effect: INSTANT WIN - Game ends immediately
+ Note: Must be the same suit, not the same rank
+7. Chain Link:
+The last effect resolves first, but you can only activate effects on your turn, and in response on your opponent's turn.
+
+Victory Conditions
+Standard Victory
+Game ends when the deck is depleted (after all players have equal turns)
+Player with the most points wins
+Points are earned by destroying opponent cards in attack position
+Instant Victory
+Five of a Kind: Having five cards of the same suit ends the game immediately
+Tiebreaker
+If players are tied on points: High card draw determines winner
+Each tied player draws one card from a separate deck/pile
+
+Important Notes
+Suits: Matters for fusions and  Five of a Kind
+Fusion Materials: Can come from your hand, field, or combination of both
+Special Summoning: Counts as your card placement for the turn (no normal summon)
+Battle Timing: Position changes must be declared before declaring attacks
+Resource Management: No hand size limit, but strategic hand management is crucial
+
+Quick Reference
+Turn Order: Draw → Main → Battle → End
+ Card Limit: 1 normal summon OR special summon per turn
+ Position Changes: Once per turn, not on summoning turn
+ Points: 1 point per attack position card destroyed
+ Win Conditions: Most points OR Five of a Kind
